@@ -34,7 +34,7 @@ El proyecto está disponible para su prueba en el siguiente enlace: [Enlace al P
 
 ## Desarrollado por
 
-Desarrollado por [Elkin Murillo](https://github.com/Rammsteinlion). Puedes agregar una imagen o enlace adicional aquí.
+Desarrollado por [Elkin Murillo](https://github.com/Rammsteinlion).
 
 ## Previa del proyecto
 
