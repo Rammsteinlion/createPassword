@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Passwprd Validation Ckeck</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="path/to/font-awesome/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+
+    <div class="wrapper">
+        <div class="pass-field">
+            <input type="password" name=" password" id="" placeholder="Create Password">
+            <i class="fa-solid fa-eye"></i>
+        </div>
+        <div class="content">
+            <p>Password must containts</p>
+            <ul class="requirement-list">
+                <li>
+                    <i class="fa-solid fa-circle"></i>
+                    <span>At least 8 characters lenght</span>
+                </li>
+                <li>
+                    <i class="fa-solid fa-circle"></i>
+                    <span>At least 1 number (0...9)</span>
+                </li>
+                <li>
+                    <i class="fa-solid fa-circle"></i>
+                    <span>At least 1 lowercase letter (a...z)</span>
+                </li>
+                <li>
+                    <i class="fa-solid fa-circle"></i>
+                    <span>At least 1 special symbol (!...$)</span>
+                </li>
+                <li>
+                    <i class="fa-solid fa-circle"></i>
+                    <span>At least 1 uppercase letter (A...Z)</span>
+                </li>
+            </ul>
+        </div>
+    </div>
+
+
+    <script src="main.js"></script>
+</body>
+</html>
