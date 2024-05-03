@@ -38,4 +38,4 @@ Desarrollado por [Elkin Murillo](http://www.ejemplo.com). Puedes agregar una ima
 
 ## Previa del proyecto
 
-<img src="image.png" height="350px" width="350px"/>
+<img src="image.png" height="350px" width="400px"/>
