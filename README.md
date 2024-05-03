@@ -24,7 +24,7 @@ Una característica importante del proyecto es la detección de que se cumplen l
 
 ## Acceso al Proyecto
 
-El proyecto está disponible para su prueba en el siguiente enlace: [Enlace al Proyecto](http://www.ejemplo.com)
+El proyecto está disponible para su prueba en el siguiente enlace: [Enlace al Proyecto](https://rammsteinlion.github.io/createPassword/)
 
 ## Tecnologías Utilizadas
 
@@ -34,7 +34,7 @@ El proyecto está disponible para su prueba en el siguiente enlace: [Enlace al P
 
 ## Desarrollado por
 
-Desarrollado por [Elkin Murillo](http://www.ejemplo.com). Puedes agregar una imagen o enlace adicional aquí.
+Desarrollado por [Elkin Murillo](https://github.com/Rammsteinlion). Puedes agregar una imagen o enlace adicional aquí.
 
 ## Previa del proyecto
 
